@@ -11,6 +11,6 @@
 
 💬 Let's connect and explore opportunities for collaboration or share insights about the ever-evolving tech landscape.
 
-🔗 [ (https://www.linkedin.com/in/sasmitha-tharushan-29b332197/) ]  |
+🔗 [ (https://www.linkedin.com/in/sasmitha-tharushan-29b332197/) ]  
 
 Coding is not just a profession; it's a passion and a path to innovation. Let's code together! 🚀

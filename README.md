@@ -2,13 +2,7 @@
 
 ###
 
-🚀 Welcome to my GitHub profile, where I embark on a coding journey driven by curiosity and passion for technology.
-
-🌟 As a self-taught software developer, I've honed my skills through dedication and hands-on experience in the world of coding.
-
-📚 Constantly seeking knowledge and growth, I'm committed to staying on the cutting edge of industry trends and best practices.
-
-💬 Let's connect and explore opportunities for collaboration or share insights about the ever-evolving tech landscape.
+🚀 Welcome to my GitHub profile,
 
 ###
 

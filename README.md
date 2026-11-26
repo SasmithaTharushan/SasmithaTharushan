@@ -1,8 +1,6 @@
-<h2 align="left">Hi 👋! My name is Sasmitha Tharushan and I'm a Self-Taught Software Developer, from Sri Lanka.</h2>
+<h2 align="left">Hi, I'm Sasmitha Tharushan 👋</h2>
 
-###
-
-🚀 Welcome to my GitHub profile,
+A self-taught software developer who builds clean, user-focused web and mobile apps with Flutter, React and Firebase.
 
 ###
 
